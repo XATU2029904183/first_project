@@ -20,3 +20,5 @@ fib_sequence = fibonacci(length)
 
 # 输出结果
 print("斐波那契数列：", fib_sequence)
+
+#测试代码
